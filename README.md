@@ -9,3 +9,5 @@ Interfaz de usuario intuitiva y fácil de usar.
 Diseño responsivo que se adapta a diferentes dispositivos y tamaños de pantalla.
 Actualización automática de datos desde la API de Pokémon para garantizar la información más reciente.
 
+#Boceto del proeyecto
+https://wireframe.cc/OFsw7y
